@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SortedBarChart
+comment1.params=fileName
+comment1.target=java.util.ArrayList\ readValues(java.lang.String)
+comment1.text=\r\n\ Read\ a\ sequence\ of\ positive\ integers\ from\ a\ given\ input\ file,\r\n\ and\ construct\ an\ array\ list\ out\ of\ them.\r\n\ \r\n\ @param\ fileName\:\ the\ input\ file\ name\r\n\ @return\ an\ array\ list\ of\ values\r\n
+comment2.params=list
+comment2.target=int\ findMax(java.util.ArrayList)
+comment2.text=\r\n\ Return\ the\ largest\ element\ in\ the\ array\ list.\r\n\ \r\n\ @param\ list\:\ the\ input\ list\r\n\ @return\ the\ largest\ element\ in\ list\r\n
+comment3.params=list
+comment3.target=void\ printBarChart(java.util.ArrayList)
+comment3.text=\r\n\ Prints\ a\ chart\ of\ asterisks\ with\ list\ value,\ based\ on\ the\ input\ list.\r\n\ \r\n\ @param\ list\:\ the\ input\ list\r\n
+comment4.params=list
+comment4.target=void\ printArrayValues(java.util.ArrayList)
+comment4.text=\r\n\ Prints\ the\ list\ value\ in\ one\ line\r\n\ \r\n\ @param\ list\ the\ input\ list\r\n
+comment5.params=list\ max
+comment5.target=java.util.ArrayList\ convertBarValues(java.util.ArrayList,\ int)
+comment5.text=\r\n\ Convert\ the\ list\ valeus\ into\ corresponding\ bar\ values\ proportion\ to\ the\ largest\ element\ in\ the\ list.\r\n\ Truncate\ the\ fraction\ part\ if\ the\ resulting\ bar\ value\ is\ not\ a\ whole\ number\r\n\ \r\n\ @param\ list\ the\ input\ list\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
